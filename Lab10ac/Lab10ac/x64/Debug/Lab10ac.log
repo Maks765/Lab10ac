@@ -1,0 +1,65 @@
+﻿  Lab10ac.cpp
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(1,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(4,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(6,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(6,11): error C2065: 'початок': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(6,26): error C2146: syntax error: missing ';' before identifier 'асемблерної'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(6,26): error C2065: 'асемблерної': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(6,49): error C2146: syntax error: missing ';' before identifier 'вставки'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(6,49): error C2065: 'вставки': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,2): error C2146: syntax error: missing ';' before identifier 'finit'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,2): error C2065: 'finit': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,9): error C2065: 'очищення': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,26): error C2146: syntax error: missing ';' before identifier 'регістрів'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,26): error C2065: 'регістрів': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,45): error C2146: syntax error: missing ';' before identifier 'співпроцесора'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(7,45): error C2065: 'співпроцесора': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,3): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,3): error C2065: 'fld': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,9): error C2146: syntax error: missing ';' before identifier 'ALPHA'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,16): error C2065: 'завантаження': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,41): error C2146: syntax error: missing ';' before identifier 'у'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,41): error C2065: 'у': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,44): error C2146: syntax error: missing ';' before identifier 'вершину'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,44): error C2065: 'вершину': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,59): error C2146: syntax error: missing ';' before identifier 'стека'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,59): error C2065: 'стека': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,70): error C2146: syntax error: missing ';' before identifier 'аргументу'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(8,70): error C2065: 'аргументу': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(9,3): error C2146: syntax error: missing ';' before identifier 'fsin'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(9,3): error C2065: 'fsin': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(9,9): error C2065: 'обчислення': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(9,30): error C2146: syntax error: missing ';' before identifier 'синуса'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(9,30): error C2065: 'синуса': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,3): error C2146: syntax error: missing ';' before identifier 'fimul'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,3): error C2065: 'fimul': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,11): error C2146: syntax error: missing ';' before identifier 'A'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,14): error C2065: 'множення': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,31): error C2146: syntax error: missing ';' before identifier 'вершини'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,31): error C2065: 'вершини': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,46): error C2146: syntax error: missing ';' before identifier 'стека'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,46): error C2065: 'стека': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,57): error C2146: syntax error: missing ';' before identifier 'на'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,57): error C2065: 'на': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,62): error C2146: syntax error: missing ';' before identifier 'константу'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(10,62): error C2065: 'константу': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(11,3): error C2146: syntax error: missing ';' before identifier 'fimul'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(11,3): error C2065: 'fimul': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(11,11): error C2146: syntax error: missing ';' before identifier 'B'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(12,3): error C2146: syntax error: missing ';' before identifier 'fidiv'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(12,3): error C2065: 'fidiv': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(12,11): error C2146: syntax error: missing ';' before identifier 'M2'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,3): error C2146: syntax error: missing ';' before identifier 'fstp'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,3): error C2065: 'fstp': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,10): error C2146: syntax error: missing ';' before identifier 'Y'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,13): error C2065: 'збереження': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,34): error C2146: syntax error: missing ';' before identifier 'результату'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,34): error C2065: 'результату': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,55): error C2146: syntax error: missing ';' before identifier 'в'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,73): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,55): error C2065: 'в': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,58): error C2146: syntax error: missing ';' before identifier 'комірці'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,58): error C2065: 'комірці': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,73): error C2146: syntax error: missing ';' before identifier 'пам’яті'
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(13,73): error C2065: 'пам’яті': undeclared identifier
+C:\Users\maksi\source\repos\Lab10ac\Lab10ac\Lab10ac.cpp(14,2): error C2143: syntax error: missing ';' before '}'
